@@ -47,5 +47,6 @@ Temporary Items
 .apdisk
 
 #Stuff added by Clerico
-*.log
 google_maps_api_key.txt
+watchmyspot.bmx
+watchmyspot.aws
